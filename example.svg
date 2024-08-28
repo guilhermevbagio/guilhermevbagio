@@ -4,7 +4,7 @@
             <style>
                 h1 {
                     margin: 0;
-                    font-size: 18vw;
+                    font-size: 15vw;
                     line-height: 1;
                     color: red;
                     font-weight: bolder;
