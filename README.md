@@ -1,18 +1,3 @@
 <h1 align="center"> Hi there 👋</h1> 
 
-<div align="center"> <button> sabe <button/> <div/>
-
-
-h1 {
-  color: red;
-  animation: myanimation 2s infinite;
-}
-
-@keyframes myanimation {
-  from {
-    color: red;
-  }
-  to {
-    color: white;
-  }
-}
+<div align="center"> <img src="example.svg" width="400" height="400" alt="css-in-readme"> <div/>
