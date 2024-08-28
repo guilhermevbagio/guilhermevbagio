@@ -4,7 +4,7 @@
             <style>
                 h1 {
                     margin: 0;
-                    font-size: 20vw; /* Adjust this value to fit the text within the SVG */
+                    font-size: 18vw;
                     line-height: 1;
                     color: red;
                     font-weight: bolder;
