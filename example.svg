@@ -16,7 +16,7 @@
                 }
             }
             </style>
-            <h1 align="center" style="font-family: 'Helvetica', sans-serif; letter-spacing: 2px;">HELLO WORLD!</h1>
+            <h1 align="center" style="font-family: 'Helvetica', sans-serif; letter-spacing: -2px;">HELLO WORLD!</h1>
         </div>
     </foreignObject>
 </svg>
