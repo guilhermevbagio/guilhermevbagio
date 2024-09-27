@@ -1,5 +1,5 @@
 
-<div align="center"> <img  src="example.svg" width="45%"> </div>
+<div align="center"> <img  src="example.svg"> </div>
 <p align="center"> @guilhermevbagio </p>
 
 <br/>
