@@ -1,6 +1,6 @@
 
 <div align="center"> <img  src="example.svg"> </div>
-<p align="center"> UX/UI, Game design and development </p>
+<p align="center"> UX/UI, game design and development </p>
 <p align="center"> @guilhermevbagio </p>
 
 <br/>
