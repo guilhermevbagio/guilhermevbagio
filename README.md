@@ -7,7 +7,7 @@
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermevbagio&theme=dark&count_private=true&langs_count=4">
-    <div align="center">  
+    <div style="display: flex; flex-direction: column; align-items: center;">  
        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats"]>
        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats"]>
     </div>
