@@ -11,8 +11,3 @@
   <img src="https://github-profile-trophy.vercel.app/?username=guilhermevbagio&column=4&theme=onestar&margin-w=9&hide_border=true&count_private=true"><br/>
 </div>
 
-<br/>
-
-<div align="center">
-   
-</div>
