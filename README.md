@@ -13,7 +13,7 @@
 <br/>
 
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=guilhermevbagio&column=5&theme=onestar&margin-w=9&hide_border=true&count_private=true"><br/>
+    <img src="https://github-profile-trophy.vercel.app/?username=guilhermevbagio&column=6&theme=onestar&margin-w=9&hide_border=true&count_private=true"><br/>
 </div>
 
 
