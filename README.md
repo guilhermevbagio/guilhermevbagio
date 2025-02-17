@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/ba3491ae-d156-4441-8f15-962b15be016f">
+  <img src="https://github.com/user-attachments/assets/a65d9d31-b2f6-4b1f-82c6-d0c684ffae98">
 </div>
 
 <p align="center"> UX/UI, game design and development </p>
