@@ -4,5 +4,5 @@
 A programmer interested in ~~everything~~ 
 ## design, game development, low level programming, logic challenges and web development.
 
-$${\color{#5E1414} Somewhere-between-an-artist-passionate-about-code }$$
+$${\color{#5E1414} Somewhere-in-between-an-artist-passionate-about-code }$$
 $${\color{#5E1414}  a-coder-passionate-about-art-and-a-human-being-passionate-about-the-world }$$
