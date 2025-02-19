@@ -6,5 +6,3 @@
 ### A programmer interested in *~~everything~~*  design, game development, low level programming, logic challenges and web development.
 
 ### ${\color{#5E1414} Somewhere-in-between-an-artist-passionate-about-code, }$ <br> ${\color{#5E1414}  a-coder-passionate-about-art-and-a-human-being-passionate-about-the-world. }$
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermevbagio&border_color=5E1414&bg_color=000000&border_radius=0&title_color=5E1414&count_private=true&langs_count=8"><br/><br/>
