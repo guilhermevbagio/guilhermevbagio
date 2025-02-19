@@ -3,7 +3,7 @@
 ![#5E1414](https://placehold.co/15x15/5E1414/5E1414.png) 
 
 
-### A programmer interested in *~~everything~~*  design, game development, low level programming, logic challenges and web development.
+### A programmer interested in ~~*everything*~~  design, game development, low level programming, logic challenges and web development.
 
 ### ${\color{#5E1414} Somewhere-in-between-an-artist-passionate-about-code, }$ <br> ${\color{#5E1414}  a-coder-passionate-about-art-and-a-human-being-passionate-about-the-world. }$
 
