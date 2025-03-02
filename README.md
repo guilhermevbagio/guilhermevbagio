@@ -20,4 +20,10 @@
   <img src="https://github.com/user-attachments/assets/3281d605-c4bb-4dd3-875f-c56d60cc933d" width="50" height="50">
 </p>
 
+<a href="https://leetcode.com/u/guilhermevbagio/" target="_blank"> Leetcode </a>
+<a href="https://www.linkedin.com/in/guilhermevbagio/" target="_blank"> Linkedin </a>
+<a href="" target="_blank"> Portfolio </a>
+
+
+
 
