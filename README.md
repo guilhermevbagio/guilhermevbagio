@@ -21,8 +21,10 @@
 </p>
 
 <a href="https://leetcode.com/u/guilhermevbagio/" target="_blank"> Leetcode </a>
+<br>
 <a href="https://www.linkedin.com/in/guilhermevbagio/" target="_blank"> Linkedin </a>
-<a href="" target="_blank"> Portfolio </a>
+<br>
+<a href="https://github.com/guilhermevbagio/" target="_blank"> Portfolio </a>
 
 
 
