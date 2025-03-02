@@ -20,12 +20,16 @@
   <img src="https://github.com/user-attachments/assets/3281d605-c4bb-4dd3-875f-c56d60cc933d" width="50" height="50">
 </p>
 
-<a href="https://leetcode.com/u/guilhermevbagio/" target="_blank"> Leetcode </a>
-<br>
-<a href="https://www.linkedin.com/in/guilhermevbagio/" target="_blank"> Linkedin </a>
-<br>
-<a href="https://github.com/guilhermevbagio/" target="_blank"> Portfolio </a>
+### My links:
 
-
+<a href="https://www.linkedin.com/guilhermevbagio" target="_blank">
+  <img src="https://github.com/user-attachments/assets/2dbf6aa2-24b9-4045-a660-effc6c909afe">
+</a>
+<a href="https://www.leetcode.com/guilhermevbagio" target="_blank">
+  <img src="https://github.com/user-attachments/assets/7a69145e-667d-4859-8c8f-445bf8bfc6e6">
+</a>
+<a href="https://www.github.com/guilhermevbagio" target="_blank">
+  <img src="https://github.com/user-attachments/assets/69444a81-cc11-46c3-844c-0228f2daf29f">
+</a>
 
 
