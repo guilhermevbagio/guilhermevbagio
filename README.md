@@ -18,6 +18,7 @@
   <img src="https://github.com/user-attachments/assets/1acdefd0-c150-4994-b91f-43f3f46da7e3" width="50" height="50">
   <img src="https://github.com/user-attachments/assets/dac0df87-8d00-4e0a-81e9-0108a7a91842" width="50" height="50">
   <img src="https://github.com/user-attachments/assets/3281d605-c4bb-4dd3-875f-c56d60cc933d" width="50" height="50">
+  <img src="https://github.com/user-attachments/assets/00678704-1b47-4df6-a4f7-2ab3480a364c" width="50" height="50">
 </p>
 
 ### My links:
