@@ -21,7 +21,7 @@
   <img src="https://github.com/user-attachments/assets/00678704-1b47-4df6-a4f7-2ab3480a364c" width="50" height="50">
 </p>
 
-### My links:
+### Personal links:
 
 <a href="https://www.linkedin.com/in/guilhermevbagio/" target="_blank">
   <img src="https://github.com/user-attachments/assets/2dbf6aa2-24b9-4045-a660-effc6c909afe"></a>&nbsp
@@ -29,5 +29,13 @@
   <img src="https://github.com/user-attachments/assets/7a69145e-667d-4859-8c8f-445bf8bfc6e6"></a>&nbsp
 <a href="https://www.github.com/guilhermevbagio" target="_blank">
   <img src="https://github.com/user-attachments/assets/69444a81-cc11-46c3-844c-0228f2daf29f"></a>
+
+### Project links:
+
+<a href="https://guilhermevbagio.github.io/colorrage/" target="_blank">
+  <img src="https://github.com/user-attachments/assets/a2f96f8f-9b44-40f4-94a1-f385c826e650"></a>&nbsp
+
+
+
 
 
