@@ -23,7 +23,7 @@
 </p>
 
 ### Github Language Stats
-![languages_usage](https://github.com/user-attachments/assets/67ecdfaa-8ed7-4186-9a83-a66f59bf1ace)
+![languages_usage](https://github.com/user-attachments/assets/7833d1de-ebc8-4fe2-84a7-594478776fe9)
 
 ### Personal links:
 
