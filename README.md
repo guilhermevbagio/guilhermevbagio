@@ -24,7 +24,6 @@
 
 ### Github Language Stats
 ![languages_usage](https://github.com/user-attachments/assets/7833d1de-ebc8-4fe2-84a7-594478776fe9)
-![languages_usage](https://github.com/user-attachments/assets/21949973-5b00-42b1-8def-74c7ed4bccea)
 
 
 ### Personal links:
