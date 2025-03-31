@@ -22,6 +22,7 @@
   <img src="https://github.com/user-attachments/assets/3281d605-c4bb-4dd3-875f-c56d60cc933d" width="50" height="50">
 </p>
 
+![languages_usage](https://github.com/user-attachments/assets/67ecdfaa-8ed7-4186-9a83-a66f59bf1ace)
 
 ### Personal links:
 
@@ -33,6 +34,7 @@
   <img src="https://github.com/user-attachments/assets/69444a81-cc11-46c3-844c-0228f2daf29f"></a>
 
 ### Project links:
+
 
 <a href="https://guilhermevbagio.github.io/colorrage/" target="_blank">
   <img src="https://github.com/user-attachments/assets/a2f96f8f-9b44-40f4-94a1-f385c826e650"></a>&nbsp
