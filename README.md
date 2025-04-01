@@ -23,7 +23,8 @@
 </p>
 
 ### Github Language Stats
-![languages_usage](https://github.com/user-attachments/assets/7833d1de-ebc8-4fe2-84a7-594478776fe9)
+![Generated Image](https://raw.githubusercontent.com/guilhermevbagio/readme-stats/main/output.png)
+
 
 
 ### Personal links:
