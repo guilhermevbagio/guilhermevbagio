@@ -23,7 +23,7 @@
 </p>
 
 ### Github Language Stats
-![Generated Image](https://raw.githubusercontent.com/guilhermevbagio/readme-stats/main/output.png)
+![Generated Image](https://guilhermevbagio.github.io/readme-stats/output.png)
 
 
 
