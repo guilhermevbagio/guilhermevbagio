@@ -33,7 +33,7 @@
   <img src="https://github.com/user-attachments/assets/2dbf6aa2-24b9-4045-a660-effc6c909afe"></a>&nbsp
 <a href="https://www.leetcode.com/guilhermevbagio" target="_blank">
   <img src="https://github.com/user-attachments/assets/7a69145e-667d-4859-8c8f-445bf8bfc6e6"></a>&nbsp
-<a href="https://www.github.com/guilhermevbagio" target="_blank">
+<a href="https://guilhermevbagio.xyz/" target="_blank">
   <img src="https://github.com/user-attachments/assets/69444a81-cc11-46c3-844c-0228f2daf29f"></a>
 
 ### Project links:
