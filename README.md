@@ -22,7 +22,7 @@
   <img src="https://github.com/user-attachments/assets/3281d605-c4bb-4dd3-875f-c56d60cc933d" width="50" height="50">
 </p>
 
-### Github Language Stats
+### Github Language Stats (Daily)
 ![Generated Image](https://guilhermevbagio.github.io/readme-stats/output.png)
 
 
