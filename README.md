@@ -3,7 +3,7 @@
 ![#5E1414](https://placehold.co/15x15/5E1414/5E1414.png) 
 
 
-### A programmer interested in ~~*everything*~~  design, game development, low level programming, logic challenges and web development.
+### A developer interested in ~~*everything*~~  design, game development, low level programming, logic challenges and web development.
 <br>
 
 <p align="center">
