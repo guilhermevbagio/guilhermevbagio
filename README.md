@@ -34,7 +34,7 @@
 <a href="https://guilhermevbagio.xyz/" target="_blank">
   <img src="https://github.com/user-attachments/assets/69444a81-cc11-46c3-844c-0228f2daf29f"></a>
 
-Check my website!
+Check my website for current projects and updated portfolio
 
 
 
